@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Sebastián Alonso Arias
+# 👋 ¡Hola! Soy Sebastian Alonso Arias
 
 💻 Desarrollador Fullstack — Especialista en Python, APIs & Automatización  
 🔬 Apasionado por crear soluciones reales, optimizar procesos y aprender cada día.  
