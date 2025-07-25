@@ -30,7 +30,7 @@
 | Proyecto | Descripción |
 |---------|-------------|
 | [📊 Simple Finance App](https://github.com/Sebastian-hass/simple-finance-app) | App financiera con Python & Streamlit |
-| [✋📷 Detector de Lengua de Señas en Tiempo Real](https://github.com/Sebastian-hass/detector-senas-tiempo-real) | Detección de lenguaje de señas con TensorFlow y webcam en tiempo real |
+| [✋📷 Detector de Lengua de Señas en Tiempo Real](https://github.com/Sebastian-hass/RealTimeSignLangugeDetection.git) | Detección de lenguaje de señas con TensorFlow y webcam en tiempo real |
 | [🤖 Flappy Bird AI](https://github.com/Sebastian-hass/flappi-bird_machine-learning) | NEAT AI para jugar Flappy Bird |
 | [🎥 React Movie App](https://github.com/Sebastian-hass/react-movie-app) | Películas y trailers en React |
 | [📜 Scroll Animation](https://github.com/Sebastian-hass/Scrollanimation) | Scroll infinito animado en Vanilla JS |
